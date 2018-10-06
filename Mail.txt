@@ -1,0 +1,63 @@
+///////Posteingangs-Server/////////////////////////////////////
+
+Bluewin:
+=======
+
+Servertyp: IMAP(Post abholen wie POP)
+Server: imaps.bluewin.ch
+Port: 993
+Verbindungssicherheit: SSL/TLS
+Auth.-Methode: Passwort, normal 
+
+*****************************************
+
+GMail:
+=====
+
+Servertyp: IMAP(Post abholen wie POP)
+Server: imap.gmail.com
+Port: 993
+Verbindungssicherheit: SSL/TLS
+Auth.-Methode: Passwort, normal 
+
+
+/////////////////////////////////////////////////////////////////
+
+////////Postausgangs-Server(SMTP)(Post verschicken)//////////////
+
+Bluewin:
+=======
+
+Server: smtpauths.bluewin.ch
+Port: 465
+Bentutzername: xxxxxxxxx
+Auth.-Methode: Passwort, normal 
+Verbindungssicherheit: SSL/TLS
+
+GMail:
+=======
+
+Server: smtp.gmail.com
+Port: 465
+Bentutzername: xxxxxxxxx@gmail.com
+Auth.-Methode: Passwort, normal 
+Verbindungssicherheit: SSL/TLS
+
+///////////////////////////////////////////////////////////////////
+
+Besonderheit auf GMail ist 'Bestätigung in zwei Schritten'
+=========================================================
+
+->Wenn aktiviert ist nur noch das folgende Vorgehen möglich:
+
+- Entweder die zweistufige Anmeldung deaktivieren(nicht empfohlen)
+
+oder:
+
+- Beim Handy gehts nach einmaliger Bestätigung wieder.
+
+- Beim Firefox Browser muss man ein App-Passwort(auf Google-Konto) generieren lassen,
+  das man in Firefox einträgt.(Firefox fragt danach beim Sendungs-Versuch)
+  
+  Sonst ist kein Versenden mehr möglich!!!
+  https://myaccount.google.com/apppasswords
