@@ -45,19 +45,19 @@ Verbindungssicherheit: SSL/TLS
 
 ///////////////////////////////////////////////////////////////////
 
-Besonderheit auf GMail ist 'Bestätigung in zwei Schritten'
+Besonderheit auf GMail ist 'BestÃ¤tigung in zwei Schritten'
 =========================================================
 
-->Wenn aktiviert ist nur noch das folgende Vorgehen möglich:
+->Wenn aktiviert ist nur noch das folgende Vorgehen mÃ¶glich:
 
 - Entweder die zweistufige Anmeldung deaktivieren(nicht empfohlen)
 
 oder:
 
-- Beim Handy gehts nach einmaliger Bestätigung wieder.
+- Beim Handy gehts nach einmaliger BestÃ¤tigung wieder.
 
-- Beim Firefox Browser muss man ein App-Passwort(auf Google-Konto) generieren lassen,
-  das man in Firefox einträgt.(Firefox fragt danach beim Sendungs-Versuch)
+- Beim 'Thunderbird-Mail-Programm' muss man ein App-Passwort(auf Google-Konto) generieren lassen,
+  das man in Thunderbird eintrÃ¤gt.(Thunderbird fragt danach beim Sendungs-Versuch)
   
-  Sonst ist kein Versenden mehr möglich!!!
+  Sonst ist kein Versenden mehr mÃ¶glich!!!
   https://myaccount.google.com/apppasswords
